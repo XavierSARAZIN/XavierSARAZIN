@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my GitHub profile 👋 !
 
-<!--
-**XavierSARAZIN/XavierSARAZIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 😊:
+- After several years of career in the industry, I discovered the world of programming and decided to pursue training in this field.
+- 2024 marks my career change, a year of discovery, growth, and learning.
 
-Here are some ideas to get you started:
+I will upload here my various exercises to track my progress over time. Let's see how I evolve! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack in progress 🔧:
+- **Frontend**: HTML, CSS
+- **Backend**: PHP
+- **Databases**: SQL
+- **Tools**: Git, GitHub, VSCode, WordPress
+
+## Coming Soon 📚: 
+- **Frontend**: Javascript
+- **Backend**: Java
+- **Tools**: React, Angular, Spring/Hibernate
+- **Concepts**: Debugging(Log4J2), Unit and Load testing, REST APIs
+
+Feel free to check out my repositories, contribute, or just drop me a message. Let's collaborate and learn together!
