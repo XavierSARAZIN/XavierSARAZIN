@@ -10,12 +10,12 @@ I will upload here my various exercises to track my progress over time. Let's se
 - **Frontend**: HTML, CSS
 - **Backend**: PHP
 - **Databases**: SQL
-- **Tools**: Git, GitHub, VSCode, WordPress
+- **Tools**: Git, GitHub, VSCode
 
 ## Coming Soon 📚: 
 - **Frontend**: Javascript
 - **Backend**: Java
-- **Tools**: React, Angular, Spring/Hibernate
+- **Tools**: React, Spring/Hibernate
 - **Concepts**: Debugging(Log4J2), Unit and Load testing, REST APIs
 
 Feel free to check out my repositories, contribute, or just drop me a message. Let's collaborate and learn together!
