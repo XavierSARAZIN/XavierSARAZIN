@@ -8,9 +8,9 @@ I will upload here my various exercises to track my progress over time. Let's se
 
 ## Tech Stack in progress 🔧:
 - **Frontend**: HTML, CSS
-- **Backend**: Java / Springboot / hibernate
+- **Backend**: Java / Springboot / Hibernate
 - **Databases**: SQL
-- **Tools**: Git, GitHub, VSCode
+- **Tools**: Git, GitHub, VSCode, IntelliJ Ultimate
 - **Casual**: Php, Python, MySQL
 
 ## Coming Soon 📚: 
