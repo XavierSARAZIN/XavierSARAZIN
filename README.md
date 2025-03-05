@@ -8,14 +8,14 @@ I will upload here my various exercises to track my progress over time. Let's se
 
 ## Tech Stack in progress 🔧:
 - **Frontend**: HTML, CSS
-- **Backend**: PHP
+- **Backend**: Java / Springboot / hibernate
 - **Databases**: SQL
 - **Tools**: Git, GitHub, VSCode
+- **Casual**: Php, Python, MySQL
 
 ## Coming Soon 📚: 
 - **Frontend**: Javascript
-- **Backend**: Java
-- **Tools**: React, Spring/Hibernate
+- **Tools**: React
 - **Concepts**: Debugging(Log4J2), Unit and Load testing, REST APIs
 
 Feel free to check out my repositories, contribute, or just drop me a message. Let's collaborate and learn together!
