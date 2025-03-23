@@ -7,11 +7,11 @@
 I will upload here my various exercises to track my progress over time. Let's see how I evolve! 😄
 
 ## Tech Stack in progress 🔧:
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS, Angular
 - **Backend**: Java / Springboot / Hibernate
-- **Databases**: SQL
+- **Databases**: mySQL
 - **Tools**: Git, GitHub, VSCode, IntelliJ Ultimate
-- **Casual**: Php, Python, MySQL
+- **Casual**: Php, Python
 
 ## Coming Soon 📚: 
 - **Frontend**: Javascript
